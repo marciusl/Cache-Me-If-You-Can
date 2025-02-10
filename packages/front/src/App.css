@@ -1,0 +1,45 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.demo-box {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:disabled {
+  background: #6c757d;
+}
+
+.data-box {
+  margin: 1rem 0;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 4px;
+}
+
+.status {
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}

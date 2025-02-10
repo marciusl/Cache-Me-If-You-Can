@@ -1,0 +1,7 @@
+{
+  "name": "cache-me-if-you-can",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
